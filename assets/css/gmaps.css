@@ -1,0 +1,12 @@
+.Map{
+  width: 65%;
+  height: 500px;
+
+}
+.distaces{
+  width: 35%;
+  height: 500px;
+}
+.map_and_table{
+  display: flex;
+}
